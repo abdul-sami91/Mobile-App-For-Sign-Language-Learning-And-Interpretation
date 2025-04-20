@@ -1,1 +1,2 @@
 # Mobile-App-For-Sign-Language-Learning-And-Interpretation
+SignVision is an innovative mobile and web application designed to bridge the communication gap for the deaf and hard of hearing. Leveraging the power of a custom-built 3D Convolutional Neural Network (3DCNN) combined with LSTM (Long Short-Term Memory) layers, SignVision offers real-time sign language detection, learning, and interpretation capabilities. Users can record their sign gestures, receive instant feedback, and progressively learn new symbols, alphabets, and general signs in an interactive environment.
